@@ -1,0 +1,11 @@
+Classification report (labels: happy, sad, stressed)
+
+              precision    recall  f1-score   support
+
+       happy     1.0000    1.0000    1.0000        15
+         sad     1.0000    1.0000    1.0000        15
+    stressed     1.0000    1.0000    1.0000        15
+
+    accuracy                         1.0000        45
+   macro avg     1.0000    1.0000    1.0000        45
+weighted avg     1.0000    1.0000    1.0000        45
