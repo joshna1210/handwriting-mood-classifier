@@ -622,7 +622,9 @@ https://github.com/joshna1210/handwriting-mood-classifier
 
 # 📄 License
 
-This project is intended for educational, research, and demonstration purposes.
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for the full license text.
 
 ---
 
